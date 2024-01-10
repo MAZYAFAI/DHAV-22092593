@@ -64,7 +64,7 @@ axes[1, 1].set_ylabel('Frequency')
 fig.suptitle('COVID-19 Infographics - Analysis of Patient Data', fontsize=16)
 fig.tight_layout(rect=[0, 0.03, 1, 0.95])
 
-plt.savefig('2324VS0012.png', dpi=300)
+plt.show
 
 
 # In[ ]:
